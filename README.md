@@ -2,12 +2,9 @@
 Generates a password with different possible requirments, works in the console.
 
 # To run
-- Have `python` installed on your computer
-- Have `pyperclip` installed on your computer
-- Download passwordGenerator.py
-- Open your console at the location where the file is
-- Run the command `py passwordGenerator.py`
-- Follow the prompts.
+- Download the project
+- Go to: `dist` **>** `passwordGenerator.exe`
+- Run the exe file
 
 # Program's abilities
 - The program can generate a password with different specifications
