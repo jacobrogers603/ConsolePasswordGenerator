@@ -14,6 +14,6 @@ Generates a password with different possible requirments, works in the console.
       * special characters
       * digits
       * upper-case characters
-      * (lower case characters are always included)
+      * lower case characters
 - The resulting password is automatically copied to the user's clipboard
    
